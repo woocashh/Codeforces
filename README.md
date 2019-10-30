@@ -1,2 +1,2 @@
 # Codeforces
-Solutions to codeforces problems which I did at high school
+Solutions to Codeforces problems which I did at high school
